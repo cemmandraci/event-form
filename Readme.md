@@ -52,7 +52,7 @@
 
 ------------
 
-- `Google-fonts` kütüphanesini projeye eklemek
+- `Google-fonts` kütüphanesini projeye eklemek.
 - Projenizde kullanmak istediğiniz font tiplerinin font-weight seçeneklerini istediğiniz gibi seçip yan panelde gösterilen `<link>`etiketinin altında bulunan linki kopyaladıktan sonra `<head></head>` etiketleri içerisine yapıştırıp ilk adımımızı tamamlıyoruz.
 - Daha sonra ise `CSS rules to specify families` yazısının altındaki `font-family` ailesini mutlaka css dosyamızın ister `html` ister `body` etiketini özelleştirerek kütüphanemizi aktif hale getirip font tiplerimizi değiştirebiliyoruz.
 - Diğer bir yol ise seçmiş olduğunuz fontları yada fontu `link`'in yanında bulunan `import` seçeneğine tıklayarak gelen linki kopyalayadıktan sonra sadece css dosyamızın içine ekleyebiliriz.Bazı fontlar `import `seçeneği ile css dosyasına eklendiğinde kütüphane çalışmayabiliyor bu yüzden `link` seçeneğini kullanmanızı tavsiye ederim.
