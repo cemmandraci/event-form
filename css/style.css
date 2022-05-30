@@ -1,0 +1,138 @@
+body{
+    font-family: 'Merriweather', serif;
+    overflow: hidden;
+}
+
+/* Box1 Background-color */
+
+.box1{
+    height: 100%;
+    padding: 30px 0px;
+}
+
+.box1-content{
+    margin-left: 300px;
+}
+
+.bg-box1{
+    background-color: #232323;
+}
+
+.header-date{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20.8px;
+}
+
+.header-title{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.box1-text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.header-register{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 42px;
+}
+
+.form-label{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 0px !important;
+}
+
+.register-form>.col-6>
+.form-control,
+.form-select{
+    background-color: transparent;
+    border-color: #464856;
+}
+
+.form-select>option{
+    background-color: #232323;
+    border-color: #464856;
+    color: #FFFFFF;
+}
+
+.info{
+    height: 118px;
+    background-color: transparent;
+    border-color: #464856;
+}
+
+.confirm{
+    border:1px solid #464856;
+    background-color: #23252F;
+}
+
+.btn{
+    height: 74px ;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.btn:hover{
+    background-color: #464856;
+}
+
+
+/* Box-2 */
+
+.bg-box2{
+    background-color: #464856;
+}
+
+.mt-box2{
+    margin-top: 80px;
+}
+
+.header-box2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20.8px;
+}
+
+.box2-content>a{
+    text-decoration: none;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.box2-content>a:hover{
+    color: #232323;
+}
+
+.guest{
+    margin-top: 100px;
+}
+
+.header-guest{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 8px;
+}
+
+.guest-name{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.guest-job{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.host{
+    margin-top: 50px;
+}
