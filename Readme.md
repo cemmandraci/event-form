@@ -9,7 +9,7 @@
 
 ### Html , Css ve Bootstrap 5.1 kullanılarak yazılmış bootstrap classlarına öncelik veren ve grid sistem  kullanılarak , bootstrap classlarını öğrenmeye başlayan yeni arkadaşlar için yapılan basit bir katılım formu dökümanıdır.
 
-![](img/event_form.png)
+![](https://i.imgur.com/nh7cZ2K.png[/img])
 
 
 
