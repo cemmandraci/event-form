@@ -1,4 +1,4 @@
- # **Event-form Dökümanıııııııııı**
+ # **Event-form Dökümanı**
 
 
 ### *Döküman Hakkında*
